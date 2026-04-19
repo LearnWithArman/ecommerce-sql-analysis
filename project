@@ -1,0 +1,18 @@
+ecommerce-sql-analysis/
+│
+├── README.md
+├── dataset/
+│   └── (raw csv files OR mention source)
+│
+├── sql/
+│   ├── 01_table_creation.sql
+│   ├── 02_relationships.sql
+│   ├── 03_data_exploration.sql
+│   ├── 04_analysis_queries.sql
+│   └── 05_advanced_analysis.sql
+│
+├── insights/
+│   └── business_insights.md
+│
+└── dashboard/
+    └── (Power BI file later)
